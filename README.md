@@ -1,4 +1,4 @@
-# Meetings App
+# Real Estate App
 ## Backend API (server)
 ## Local Setup with Docker
 Make sure Docker is installed
